@@ -48,13 +48,13 @@ Make sure you have the following installed before running the project:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/[YourUsername]/justintime-mrp.git
+git clone https://github.com/opokua7/JustInTime_FloatFry.git
 ```
 
 ### 2. Navigate into the project folder
 
 ```bash
-cd justintime-mrp
+cd justintime
 ```
 
 ### 3. Install dependencies
