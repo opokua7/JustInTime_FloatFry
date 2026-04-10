@@ -1,6 +1,6 @@
 # JustInTime – FloatFry Manufacturing Resource Planning
 
-> A web-based Manufacturing Resource Planning (MRP) system built for FloatFry, a premium non-stick cookware manufacturer. Developed as part of the 5005CMD Software Engineering module at Coventry University.
+> A web-based Manufacturing Resource Planning (MRP) system built for FloatFry, premium non-stick cookware manufacturer. Developed as part of the 5005CMD Software Engineering module at Coventry University.
 
 ---
 
